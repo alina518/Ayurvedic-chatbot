@@ -1,0 +1,7 @@
+{
+  "name": "Ayurvedic Prakriti Chatbot",
+  "description": "An AI-powered multimodal chatbot that identifies your Ayurvedic Prakriti through facial analysis and a comprehensive 25-question assessment in multiple Indian languages.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
